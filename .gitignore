@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.DS_Store
+.vscode/
+.idea/
+.pytest_cache/
+
+# Sources, datasets and generated experiment artifacts
+stylegan3/
+attributes.csv
+data/
+datasets/
+training-runs/
+*.pkl
+*.onnx
